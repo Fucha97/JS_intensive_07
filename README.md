@@ -5,7 +5,7 @@
 1. [Chapter I](#chapter-i) \
    1.1. [React](#react) \
    1.2 [Virtual DOM](#virtual-dom) \
-   1.3 [Create react app](#create-react-app) \
+   1.3 [Create react app](#create-react-app) 
 2. [Chapter II](#chapter-ii) \
    2.1. [Классовые и функциональные компоненты](#классовые-и-функциональные-компоненты) \
    2.2  [Life циклы компонента](#life-циклы-компонента) \
